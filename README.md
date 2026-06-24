@@ -29,7 +29,7 @@ El usuario **piensa** un número entre 1 y 100. El sistema lo adivina realizando
 ```
 adivina-el-numero/
 │
-├── adivina.py          # Código principal del juego
+├── main.py          # Código principal del juego
 ├── README.md           # Documentación del proyecto
 └── diagramas/
     ├── diagrama_casos_de_uso.png
